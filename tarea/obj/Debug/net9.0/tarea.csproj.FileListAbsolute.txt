@@ -1,0 +1,14 @@
+C:\Users\alank\Desktop\torres\tarea\bin\Debug\net9.0\tarea.exe
+C:\Users\alank\Desktop\torres\tarea\bin\Debug\net9.0\tarea.deps.json
+C:\Users\alank\Desktop\torres\tarea\bin\Debug\net9.0\tarea.runtimeconfig.json
+C:\Users\alank\Desktop\torres\tarea\bin\Debug\net9.0\tarea.dll
+C:\Users\alank\Desktop\torres\tarea\bin\Debug\net9.0\tarea.pdb
+C:\Users\alank\Desktop\torres\tarea\obj\Debug\net9.0\tarea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alank\Desktop\torres\tarea\obj\Debug\net9.0\tarea.AssemblyInfoInputs.cache
+C:\Users\alank\Desktop\torres\tarea\obj\Debug\net9.0\tarea.AssemblyInfo.cs
+C:\Users\alank\Desktop\torres\tarea\obj\Debug\net9.0\tarea.csproj.CoreCompileInputs.cache
+C:\Users\alank\Desktop\torres\tarea\obj\Debug\net9.0\tarea.dll
+C:\Users\alank\Desktop\torres\tarea\obj\Debug\net9.0\refint\tarea.dll
+C:\Users\alank\Desktop\torres\tarea\obj\Debug\net9.0\tarea.pdb
+C:\Users\alank\Desktop\torres\tarea\obj\Debug\net9.0\tarea.genruntimeconfig.cache
+C:\Users\alank\Desktop\torres\tarea\obj\Debug\net9.0\ref\tarea.dll
